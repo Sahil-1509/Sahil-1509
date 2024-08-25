@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sahil-1509
-- 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing.
+- 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing,Computer Vision.
 - 🌱 I also do coding on leetcode,gfg.
-- 💞️ I’m looking to collaborate on ML,DL projects.I have made some projects in this fields.
 - 📫 How to reach me mdsahilansari7860@gmail.com
 
 <!---
